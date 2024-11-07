@@ -1,4 +1,3 @@
-import os
 import random
 import time
 
@@ -257,7 +256,6 @@ banner = """
 
 # Main Program
 def main():
-    os.system("clear")
     print(banner)
     time.sleep(2)
     print()
